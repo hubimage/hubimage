@@ -14,130 +14,96 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-<html>
- 
-<head>
-    <script type="text/javascript">
- 
-        function display(id){
-            var traget=document.getElementById(id);
-            if(traget.style.display=="none"){
-                traget.style.display="";
-            }else{
-                traget.style.display="none";
-          }
-       }
-    </script>
-    <style type="text/css">
-        body{text-align:center;font-family:"Times New Roman"}
-        a{text-decoration:none}
-        a:hover{ color:#F00}
-        /* div{float:left} */
-        li { margin-top:3px;}
-    </style>
-    <title> 网页的名称，可以写你的帅名</title>
-</head>
- 
-<body>
-    <div align="center">
-        <div style="width:1200px; height:250px; padding-top: 30px;">
-            <div style="float: left;">
-                <img src="这个地方需要放上你的帅照" height="230px" width="180px" />
-            </div>
-            <div style="width:900px; height:240px; padding-left: 10px; float: left; text-align: left;">
-                <br />
-                <!--下面两行是我的中文简历,制作方法类似。只做完后把index-CN.html文件改为你的中文简历文件即可-->
-                <font size="5px">你的帅名</font>
-                <font size="2px"> <a href="index-CN.html">(CN  ➩)</a></font>
- 
- 
-                <br />
- 
-                <br />
-                Undergraduate, Artificial Intelligence @ School of Information Engineering, NCWU, Zhengzhou, China (since 2020.09)
-                <br />
- 
-                <br />
-                <br />
- 
- 
-                Email: 你的邮箱
-                <br />
-                Rank&nbsp: 你的排名
-                <br />
-                 GPA &nbsp: 你的绩点
-                <font size="2px"> <a href="成绩单地址">(GPA.pdf)</a></font>
-                <br />
-<!--                &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp gosling123456@outlook.com -->
- 
-                <br />
- 
-                <br />
-                <a href="你的CSDN地址">[CSDN Blog]</a>
-            </div>
-        </div>
- 
-        <!-- 调整下面的height可以调整每一个模块的高度，当前为60px -->
-        <div style="width:1200px; height:60px; padding-top: 10px;">
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px; ">
-                &nbsp &nbsp &nbsp &nbsp I am an undergraduate at North China University of Water Resources and Electric Power (NCWU, Zhengzhou, China) since 2020. My research interests are in artificial intelligence (deep learning) and computer vision.
-            </div>
-        </div>
-<!-- 研究领域, 调整下面的height可以调整每一个模块的高度，当前模块为Fields of Research，高度为60px -->
-        <div style="width:1200px; height:110px; padding-top: 10px;">
-            <div style="width:800px; height:20px; float: left; text-align: left; padding-left: 10px;">
-                <font size="5px">Fields of Research</font>
-            </div>
-            <div style="width:1190px; height:auto; float: left; text-align: left; padding-left: 30px; padding-top: 20px;">
-                Artificial Intelligence, Machine Learning, Image Classification, Single-label Classification, Multi-label Classification, Fine-grained Classification
-            </div>
-            <div style="width:1190px; height:auto; float: left; text-align: left; padding-left: 30px; padding-top: 10px;">
-                CSmart Driverless, Lane line detection, traffic sign detection, vehicle detection, license plate number recognition, vehicle attribute recognition, ADAS, etc
-            </div>
-        </div>
- 
-<!-- 获得的奖助学金, 调整下面的height可以调整每一个模块的高度，当前模块为Awards，高度为140px -->
-        <div style="width:1200px; height:140px; padding-top: 10px;">
-            <div style="width:800px; height:20px; float: left; text-align: left; padding-left: 10px;">
-                <font size="5px">Awards</font>
-            </div>
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px;">
-                <ul type="circle">
- 
-                    <li>  National Encouragement Scholarship, Awarded from <i><font color="#14C652"> Department of Education of Henan Province</font></i>, <i><font color="#C64A5F"> Top honors for undergraduate</font></i>, 2021 (Top 5%),<a href="证书位置">[See Certificate]</a></li>
-                </ul>
-            </div>
-        </div>
-<!-- 获得的奖项, 调整下面的height可以调整每一个模块的高度，当前模块为Prizes，高度为430px -->
-        <div style="width:1200px; height:430px; padding-top: 10px;">
-            <div style="width:800px; height:20px; float: left; text-align: left; padding-left: 10px;">
-                <font size="5px">Prizes</font>
-            </div>
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px;">
-                <ul type="circle">
-                    <li>  （比赛名称）如：Blue Bridge Cup National Software and Information Technology Professionals Competition, Prized from <i><font color="#14C652">（颁奖单位）如：Department of Education of Henan Provincec</font></i> <i><font color="#C64A5F">奖励等级和性质(eg:First prize for individual)</font></i>, (获奖时间,含金量)，如：2023 (Top 10%),<a href="你的证书的相对地址（用相对地址等会儿部署到github上容易部署）">[See Certificate]</a></li>
-                </ul>
-            </div>
-        </div>
- 
-<!-- 科研成果, 调整下面的height可以调整每一个模块的高度，当前模块为Scientific Research，高度为100px -->
-      <div style="width:1200px; height:100px; padding-top: 10px;">
-            <div style="width:800px; height:auto; float: left; text-align: left; padding-left: 10px;">
-                <font size="5px">Scientific Research</font>
-            </div>
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px;">
-                <ul type="circle">
-                    <li>  Computer Software Copyright Certificate: <i><font color="#14C652">Computer information data encryption management system</font></i>, <i><font color="#C64A5F"> 2022.12 </font></i>,Finished. <a href="./data/prizes/2022软著.jpg">[See Certificate]</a></li>
-                </ul>
-            </div>
-        </div>
- 
- 
- 
-        <!-- <div align="center">You are the No.<a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246285&c=9739168" alt="AmazingCounters.com"></a> unique visitor, welcome!</div> -->
- 
-    </div>
-</body>
-</html>
- 
+
+# 联系方式
+
+（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+
+- 手机：186.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
+- Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
+- QQ/微信号：qing_geee（提供一个通过网络可以联系到你的方式）
+
+# 个人信息
+
+ - 沉默王二/男/1989 
+ - 专科/家里蹲大学
+ - 工作年限：10年
+ - 技术博客：http://www.itwanger.com 
+ - Github：http://github.com/qinggee ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
+
+ - 期望职位：Java 高级程序员，系统架构师
+ - 期望薪资：税前月薪30k~50k，特别喜欢的公司可例外
+ - 期望城市：洛阳
+
+
+# 工作经历
+（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
+
+## ABC公司 （ 2010年10月 ~ 2014年2月 ）
+
+### DEF项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### GHI项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### 其他项目
+
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+
+  
+## JKL公司 （ 2010年3月 ~ 2012年8月 ）
+
+### MNO项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### PQR项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### 其他项目
+
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+  
+  
+# 开源项目和作品
+（这一段用于放置工作以外的、可证明你的能力的材料）
+
+## 开源项目
+（对于程序员来讲，没有什么比Show me the code能有说服力了）
+
+  - [STU](https://github.com/qinggee/itwanger.github.io)：项目的简要说明，Star和Fork数多的可以注明
+  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+
+## 技术文章
+（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
+
+- [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+- [零基础 Java 自学指南(翻译文章)](https://blog.csdn.net/qing_gee/article/details/104774776) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
+
+## 演讲和讲义
+（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
+
+  - 2019年公司内部演讲：[还有一周呢，就无心撸码着急回家？](https://blog.csdn.net/qing_gee/article/details/103967005)
+  - 2020年公司内部分享：[这两个IDE插件，可以让你写出质量杠杠的代码](https://blog.csdn.net/qing_gee/article/details/103831517)
+    
+    
+# 技能清单
+（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
+
+以下均为我熟练使用的技能
+
+- Web开发：Java/JavaScript
+- 后端框架：Spring MVC/Spring Boot
+- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
+- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 版本管理、文档和自动化部署工具：Svn/Git/Maven
+- 单元测试：JUnit/TestNG
+      
+---      
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+      
