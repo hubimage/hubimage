@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - [基于深度学习的烟火识别算法](https://kns.cnki.net/kcms2/article/abstract?v=En0qcdJbrGklH31AMy_7JcGuJBZkvEmIUpURU9PEOguFXaynTo7_-LZtQz7OSB0urKy90yTLsIdZ_kcBMqdsX38CtL2cKj-PD4C4WIcO57k2cExzLmikhdH_4eYVpAWiEDCjNymXWDJinzEjb7ErZOE9_O2zhUMfGObXHx2R99s=&uniplatform=NZKPT)
 - [融合阈值分割和注意力网络的建筑阴影检测](https://kns.cnki.net/kcms2/article/abstract?v=En0qcdJbrGkOcKLDyE3r7g7Elg1v5rKRUhVLo8KqUK9II-Vdk4cSmx81nSNwC-bf9qCfAtTG68PuOpZTiTZHyA3ZPichkGvOhlQtMIITYUD505xTRJ7E14o2ytvt7VdY0U7lOZLUfQS91ETGdLGJ0stEeoX5908DEx6Aw1802M8=&uniplatform=NZKPT)
 - [基于关节点特征的跌倒检测算法](https://kns.cnki.net/kcms2/article/abstract?v=En0qcdJbrGnaDYbB5muweExqOfWUbBLbJOSfhQi_KwKmQPKOQovp5d3ZNqRqVgY_MVGnz7z1pkU3cfydr8jZB1MaBSsDFPu4oIcJWZpP_GF9ipwzMGDL7u7r-MphKKcMyWBI8GybKX5uCas0222vDtAxlwuz5xXWxyTjooFom94=&uniplatform=NZKPT)
+# Open source 
+-1.[hub_city]()
