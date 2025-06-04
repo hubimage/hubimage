@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #  CSDN
 1. [随机记录](https://blog.csdn.net/l641208111)
-# paper
+# Paper
 1. [融合运动特征和深度学习的跌倒检测算法](https://kns.cnki.net/kcms2/article/abstract?v=En0qcdJbrGnjQdj_cjf8M7G_jX37KrB1rikZ17EkGDxBpDRoUlnbAjZpvfOyuCmuh1d8LPWrF7_C9mUOL4gC9WZ8ub_40zPmPb5JT1vTcV0MVug9KWkoe1PAsBXAKw789BQku1BW9ikQKImgmSKGcusKjoOyYGRYTf3_JdRwczQ=&uniplatform=NZKPT)
 2. [基于深度学习的运动目标交接算法](https://kns.cnki.net/kcms2/article/abstract?v=En0qcdJbrGmgPZ4OCpFsh1UmsZBVU_23Sp_U_6mX5xQrX5NUfLIVLm94VSuS6PN-xT2mfRSdCMInBAbBE7xe_w-WuEdl1ePyNlm7XXUq21E6vaBOVJx6cVX2P6Na4nDAtJd-w8N7O18YXV1eh9T0eK93k1Vt_CJGyZ7fW8b1R-8=&uniplatform=NZKPT)
 3. [基于深度学习的居家老人跌倒检测研究](https://kns.cnki.net/kcms2/article/abstract?v=En0qcdJbrGkBCF61uNsycTEfkd1Jq7KPmitUWIt7UUVRivghjvqN8BIjrrL3TUpJB6ybUZaEj2ISZwzf6ScP_WqN7HgKXpswUrDVMT09f8fPmGNf7d1NS-yU7UGf85lUW6XF6UHL19aiawFVGTeq86j4--qE0QTnJXf28poW_SI=&uniplatform=NZKPT)
