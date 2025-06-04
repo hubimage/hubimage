@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 6. [基于关节点特征的跌倒检测算法](https://kns.cnki.net/kcms2/article/abstract?v=En0qcdJbrGnaDYbB5muweExqOfWUbBLbJOSfhQi_KwKmQPKOQovp5d3ZNqRqVgY_MVGnz7z1pkU3cfydr8jZB1MaBSsDFPu4oIcJWZpP_GF9ipwzMGDL7u7r-MphKKcMyWBI8GybKX5uCas0222vDtAxlwuz5xXWxyTjooFom94=&uniplatform=NZKPT)
 # Open source 
 1. [hub_city](https://github.com/hubimage/hub_city)
+# Awards
+[The winners of the 2nd National University Computer Ability Challenge Artificial Intelligence Application Competition](https://baike.baidu.com/item/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%83%BD%E5%8A%9B%E6%8C%91%E6%88%98%E8%B5%9B/58766945)
