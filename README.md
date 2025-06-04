@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 1. [hub_city](https://github.com/hubimage/hub_city)
 # Awards
 [The winners of the 2nd National University Computer Ability Challenge Artificial Intelligence Application Competition](https://baike.baidu.com/item/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%83%BD%E5%8A%9B%E6%8C%91%E6%88%98%E8%B5%9B/58766945)
+<img src="https://github.com/hubimage/hubimage/blob/main/asset/competion.jpeg">
